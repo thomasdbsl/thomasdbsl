@@ -15,15 +15,27 @@ Actuellement étudiant à l'ECE Paris, mon objectif est d'intégrer la majeure *
 
 ## Projets
 
-### 🏔️ Olympus
-*Description à venir.* (Tu pourras m'indiquer quoi mettre ici !)
+### 🏛️ Projet Olympus
+**Écosystème modulaire d'outils intelligents en local.**
+Le Projet Olympus est une méta-structure regroupant plusieurs modules autonomes conçus pour automatiser et sécuriser l'environnement numérique de l'utilisateur, sans aucune dépendance au cloud.
 
-`Technologies à définir`
+- **Architecture** : Conception modulaire "Plug-and-Play" permettant l'interaction entre les sous-projets (ex: Thalos pilotant le moteur de trading Cassandre).
+- **Philosophie** : Approche 100% locale pour garantir la confidentialité totale des données et une performance maximale (latence ultra-faible).
+- **Modules intégrés** :
+  - **Thalos** *(En cours)* : Cœur pensant de l'écosystème. Assistant vocal et textuel intelligent agissant comme centre de contrôle global.
+  - **Cassandre** : Moteur de trading algorithmique haute performance avec analyse technique et exécution d'ordres en temps réel.
 
-### 🔮 Cassandre
-*Description à venir.* (Tu pourras m'indiquer quoi mettre ici !)
+`Python` `Architecture Modulaire` `Local-First` `Automation` `Agile`
 
-`Technologies à définir`
+### 📈 Cassandre (Projet Olympus)
+Moteur de trading algorithmique haute performance fonctionnant 100% en local. Analyse technique multi-actifs (Crypto, Actions, Forex) et exécution automatisée d'ordres via API avec gestion rigoureuse des risques.
+
+- **Analyse Technique** : Intégration de `pandas-ta` pour le calcul de signaux (RSI, MACD, Bollinger Bands) et stratégies de croisement d'EMA.
+- **Gestion des Risques** : Stop-loss automatique basé sur l'ATR, take-profit dynamique et circuit breaker en cas de drawdown excessif.
+- **Modes de Trading** : Basculement sécurisé entre Paper Trading (Alpaca/Binance Testnet) et mode Réel avec double confirmation.
+- **Interface** : Dashboard interactif sous Streamlit/Gradio avec visualisation OHLCV via Plotly.
+
+`Python` `Pandas-TA` `Alpaca API` `SQLite` `Streamlit` `Plotly`
 
 ### ⚡ Energy Optimizer Campus
 Simulateur pédagogique d'optimisation énergétique. Frontend React/TypeScript, backend Python FastAPI.
@@ -58,14 +70,16 @@ Adaptation console du jeu Quoridor avec gestion des murs, des déplacements et d
 
 ## En ce moment
 
+- Développement du moteur de trading **Cassandre** et de l'écosystème **Olympus**
 - Approfondissement de mes connaissances en Intelligence Artificielle et Data
-- Développement des projets Olympus et Cassandre
+- Préparation pour la majeure Data & IA
 
 ---
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Duberseuil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-duberseuil-guerin-247384339/)
+[![Email](https://img.shields.io/badge/Gmail-thduberseuil@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thduberseuil@gmail.com)
 
 ---
 
