@@ -37,6 +37,12 @@ Moteur de trading algorithmique haute performance fonctionnant 100% en local. An
 
 `Python` `Pandas-TA` `Alpaca API` `SQLite` `Streamlit` `Plotly`
 
+### 🌐 Vita Care — Site Web Dynamique
+Projet académique en équipe de création d'un site internet en web dynamique. Conception et développement d'une plateforme web interactive de A à Z. 
+- **Contexte** : Projet réalisé en groupe de 4 étudiants (Hoorpah, Zribi, Duberseuil, Nacer) dans le cadre de la formation ingénieur (ING2).
+
+`HTML/CSS` `JavaScript` `Web Dynamique` `Travail d'équipe`
+
 ### ⚡ Energy Optimizer Campus
 Simulateur pédagogique d'optimisation énergétique. Frontend React/TypeScript, backend Python FastAPI.
 
