@@ -37,23 +37,23 @@ Moteur de trading algorithmique haute performance fonctionnant 100% en local. An
 
 `Python` `Pandas-TA` `Alpaca API` `SQLite` `Streamlit` `Plotly`
 
-### 🌐 Vita Care — Site Web Dynamique
+### 🌐 [Vita Care — Site Web Dynamique](https://github.com/thomasdbsl/Web-Vitacare)
 Projet académique en équipe de création d'un site internet en web dynamique. Conception et développement d'une plateforme web interactive de A à Z. 
 - **Contexte** : Projet réalisé en groupe de 4 étudiants (Hoorpah, Zribi, Duberseuil, Nacer) dans le cadre de la formation ingénieur (ING2).
 
 `HTML/CSS` `JavaScript` `Web Dynamique` `Travail d'équipe`
 
-### ⚡ Energy Optimizer Campus
+### ⚡ [Energy Optimizer Campus](https://github.com/thomasdbsl/Energy-optimizer-campus)
 Simulateur pédagogique d'optimisation énergétique. Frontend React/TypeScript, backend Python FastAPI.
 
 `Python` `TypeScript` `React`
 
-### 📊 Analyse de réseaux — Théorie des graphes
+### 📊 [Analyse de réseaux — Théorie des graphes](https://github.com/thomasdbsl/Smart-waste-routing)
 Modélisation d'une commune en graphe pondéré. Implémentation de BFS/DFS, Kosaraju, connectivité. Pilotage d'une équipe de 4.
 
 `Java`
 
-### ♟️ Jeu du Quoridor
+### ♟️ [Jeu du Quoridor](https://github.com/thomasdbsl/Projet-Quoridor)
 Adaptation console du jeu Quoridor avec gestion des murs, des déplacements et du plateau. Un de mes premiers projets en informatique C.
 
 `C`
