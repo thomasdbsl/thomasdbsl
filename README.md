@@ -18,7 +18,7 @@ Mes projets me permettent de progresser en développement full-stack, bases de d
 
 ## Projets à découvrir
 
-### [YvY Ledger / Funds Manager](https://github.com/thomasdbsl/YvY-Capital)
+### 📈 [YvY Ledger / Funds Manager](https://github.com/thomasdbsl/YvY-Capital)
 **Application de suivi de fonds développée en équipe dans le cadre du projet Inteli × YvY Capital.**
 
 - **Parcours de données complet** : import de 14 CSV, validation et mise en quarantaine des anomalies en Python, stockage MySQL puis exposition via une API PHP.
@@ -30,7 +30,7 @@ Le dépôt contient un jeu de données fictives autorisé pour la démonstration
 
 `Python` `PHP` `MySQL` `JavaScript` `HTML/CSS` `Electron` `Data Quality`
 
-### [VitaCare Méditerranée](https://github.com/thomasdbsl/Web-Vitacare)
+### 🌐 [VitaCare Méditerranée](https://github.com/thomasdbsl/Web-Vitacare)
 **Plateforme web pédagogique de réservation et de suivi bien-être / santé, réalisée en équipe de quatre en ING2.**
 
 - **Parcours bénéficiaire** : catalogue de praticiens et de prestations, créneaux, réservations, programmes collectifs et historique des rendez-vous.
@@ -41,7 +41,7 @@ Projet académique avec données de démonstration : le paiement est simulé et 
 
 `HTML/CSS` `JavaScript` `React` `PHP` `MySQL` `Travail d'équipe`
 
-### [Energy Optimizer Campus](https://github.com/thomasdbsl/Energy-optimizer-campus)
+### ⚡ [Energy Optimizer Campus](https://github.com/thomasdbsl/Energy-optimizer-campus)
 **Preuve de concept pour comparer des stratégies de gestion énergétique à l'échelle d'un campus.**
 
 - **Simulation paramétrable** : occupation, météo et usages alimentent un moteur Python qui compare trois stratégies de pilotage.
@@ -52,7 +52,7 @@ Les capteurs et les données sont simulés : les résultats servent à comparer 
 
 `Python` `FastAPI` `React` `TypeScript` `Simulation` `Visualisation`
 
-### [Smart Waste Routing](https://github.com/thomasdbsl/Smart-waste-routing)
+### 📊 [Smart Waste Routing](https://github.com/thomasdbsl/Smart-waste-routing)
 **Application de la théorie des graphes à l'optimisation des tournées de collecte des déchets.**
 
 - **Modélisation** : représentation d'un réseau routier sous forme de graphe pondéré et chargement de scénarios depuis des fichiers.
@@ -61,7 +61,7 @@ Les capteurs et les données sont simulés : les résultats servent à comparer 
 
 `Java` `Programmation orientée objet` `Graphes` `Optimisation`
 
-### [Quoridor en C](https://github.com/thomasdbsl/Projet-Quoridor)
+### ♟️ [Quoridor en C](https://github.com/thomasdbsl/Projet-Quoridor)
 **Un de mes premiers projets informatiques : une adaptation console du jeu Quoridor.**
 
 - Gestion du plateau, des joueurs, des déplacements et du placement des murs.
@@ -74,7 +74,7 @@ Je conserve ce projet comme trace de mon apprentissage : il comporte encore des 
 
 ## Projets personnels en cours
 
-### Olympus et Cassandre
+### 🏛️ Olympus et Cassandre
 **Exploration d'un écosystème modulaire d'outils locaux, autour de l'automatisation et de l'analyse de données.**
 
 - **Olympus** : organisation de modules autonomes avec une approche local-first et un objectif d'interopérabilité.
